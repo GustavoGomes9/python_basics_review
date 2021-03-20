@@ -32,7 +32,7 @@ del array[2:6]
 print(array)
 
 array.clear()
-print('Array',array)
+print('Arrayghj',array)
 
 
 
