@@ -13,7 +13,7 @@ a = ask_ok
 a("")
 
 def f(a, L=[]):
-    L.append(a) """it adds a new element at the end of the list"""
+    L.append(a) #it adds a new element at the end of the list
     return L
 
 print(f(1))
